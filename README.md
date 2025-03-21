@@ -62,7 +62,4 @@ To run the notebook, you will need:
   - scikit-learn
   - scipy
 
-You can install the required libraries via pip:
-
-```bash
 
