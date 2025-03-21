@@ -1,6 +1,5 @@
 # KNN-Analysis-on-Vertebral-Column-Data-Set
 
-# KNN Analysis on Vertebral Column Data (Jupyter Notebook)
 
 This repository contains a comprehensive Jupyter Notebook that implements a K-Nearest Neighbors (KNN) classification analysis on the Vertebral Column Data Set. The project was developed as part of the Homework 1 assignment for DSCI 552 under the instruction of Mohammad Reza Rajati.
 
